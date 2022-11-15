@@ -7,3 +7,7 @@
 - ["1234", "1567", "-2", "computer science"] -> ["-2"];
 - ["Russia", "Denmark", "Kazan"] -> []
 
+# Блок-схема решения задачи:
+
+![Блок схема решения задачи](https://github.com/Iv-An-Kolesnikov/finalwork/blob/main/final.png)
+
